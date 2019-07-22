@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/root/Training-week3/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+988075090.index
+2602276312.index
+4260174106.index
+2070175396.index
+1890376541.index
+1078445471.index
+1240754151.index
